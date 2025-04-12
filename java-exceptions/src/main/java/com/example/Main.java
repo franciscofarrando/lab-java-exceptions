@@ -24,7 +24,7 @@ package com.example;
 
             //comparo dos personas
             boolean areEqual = person2.equals(person1);
-            System.out.println("¿person1 y person3 son iguales? " + areEqual);
+            System.out.println("¿Las personas 1 y 2 son iguales? " + areEqual);
 
             // busco por nombre
             try {
